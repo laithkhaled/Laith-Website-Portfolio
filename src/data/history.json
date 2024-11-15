@@ -1,0 +1,12 @@
+[
+    {
+      "role": "Intern",
+      "organization": "DXC Technology",
+      "startDate": "June, 2023",
+      "endDate": "August, 2023",
+      "experiences": ["Built a database for the insurance team at DXC that can store millions of client data", 
+                    "Hosted the database on AWS and used PgAdmin4 as our database management system",
+                    "Automated SQL statement generation by programming Python scripts to get old data from csv and txt files"],
+      "imageSrc": "assets/history/DXC.png"
+    }
+  ]

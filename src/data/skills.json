@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Java",
+      "imageSrc": "assets/skills/Java.png"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "assets/skills/Csharp.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "assets/skills/C++.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "assets/skills/React.png"
+    },
+    {
+      "title": "OracleSQL",
+      "imageSrc": "assets/skills/oraclesql.png"
+    },
+    {
+      "title": "PostgreSQL",
+      "imageSrc": "assets/skills/Postgresql.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "assets/skills/Python.png"
+    },
+    {
+        "title": "Git",
+        "imageSrc": "assets/skills/Git.png"
+    },
+    {
+        "title": "Unity",
+        "imageSrc": "assets/skills/Unity.png"
+    },
+    {
+        "title": "UnrealEngine",
+        "imageSrc": "assets/skills/UnrealEngine.png"
+    },
+    {
+        "title": "Filmora",
+        "imageSrc": "assets/skills/Wondershare.png"
+    },
+    {
+        "title": "Lightroom",
+        "imageSrc": "assets/skills/Lightroom.png"
+    }
+  ]

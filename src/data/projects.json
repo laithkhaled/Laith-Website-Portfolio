@@ -1,0 +1,26 @@
+[
+    {
+        "title": "No Fun League",
+        "imageSrc": "assets/projects/nofunleague.jpg",
+        "description": "Play as a referee during NFL games",
+        "skills": ["Unity", "C#", "Leadership"],
+        "demo": "https://laithk.itch.io/no-fun-league",
+        "source": "https://github.com/laithkhaled/No-Fun-League"
+    },
+    {
+        "title": "Comics Universe",
+        "imageSrc": "assets/projects/comicsuniverse.jpg",
+        "description": "Easily get reading material for any hero you want",
+        "skills": ["React Native", "Javascript", "Mobile Development"],
+        "demo": "https://www.linkedin.com/in/laithkhaled/details/projects/",
+        "source": "https://github.com/huntnguyen/Comic-Universe"
+    },
+    {
+        "title": "Infinite Runner Game",
+        "imageSrc": "assets/projects/infiniterunner.png",
+        "description": "Infinite Runner game to learn the basics of Unreal Engine and C++",
+        "skills": ["C++", "Unreal Engine", "Game Development"],
+        "demo": "https://www.youtube.com/watch?v=TuC-VoBjLu4",
+        "source": "https://github.com/laithkhaled/lskhaled_final_project_2467"
+    }
+]
